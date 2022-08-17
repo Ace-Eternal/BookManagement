@@ -1,0 +1,4 @@
+八月 17, 2022 10:29:50 下午 book.management.Main lambda$addStudent$0
+信息: 新增一条学生信息Student(sid=0, name=卡桑, sex=男, grade=4)
+八月 17, 2022 10:32:50 下午 book.management.Main lambda$addBook$1
+信息: 新增一条书籍信息Book(bid=0, title=成功的秘密, desc=去卖红薯, price=9.9)
