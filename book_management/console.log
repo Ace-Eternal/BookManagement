@@ -1,4 +1,3 @@
-å…«æœˆ 17, 2022 10:29:50 ä¸‹åˆ book.management.Main lambda$addStudent$0
-ä¿¡æ¯: æ–°å¢ä¸€æ¡å­¦ç”Ÿä¿¡æ¯Student(sid=0, name=å¡æ¡‘, sex=ç”·, grade=4)
-å…«æœˆ 17, 2022 10:32:50 ä¸‹åˆ book.management.Main lambda$addBook$1
-ä¿¡æ¯: æ–°å¢ä¸€æ¡ä¹¦ç±ä¿¡æ¯Book(bid=0, title=æˆåŠŸçš„ç§˜å¯†, desc=å»å–çº¢è–¯, price=9.9)
+
+°ËÔÂ 18, 2022 2:38:03 ÏÂÎç book.management.Main lambda$addBook$1
+ĞÅÏ¢: ĞÂÔöÒ»ÌõÊé¼®ĞÅÏ¢Book(bid=0, title=ÁÒ»ğÁÇÔ­, desc=ĞÇĞÇÖ®»ğ¿ÉÒÔÁÇÔ­, price=10.0)
